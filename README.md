@@ -36,6 +36,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 To start the development server, run:
 
 ```bash
-# If you are using Vite:
 npm run dev
 ```
