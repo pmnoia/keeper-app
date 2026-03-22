@@ -20,7 +20,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/pmnoia/keeper-app.git](https://github.com/pmnoia/keeper-app.git)
+    git clone https://github.com/pmnoia/keeper-app.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
